@@ -1,0 +1,4 @@
+https://expo.io/artifacts/d70cd383-ed12-40cc-85f7-40f61d38279f
+https://foodaly.herokuapp.com/gql
+https://foodaly-admin.vercel.app/
+https://trello.com/b/0h05UmDG/monrepas
